@@ -5,11 +5,9 @@
 2. Overview of Data Science
 3. Intro to visualizing, exploring, and modeling data. *We will do some machine learning today!*
 
-## Why Codeup?
+###  Why Codeup?
 - Focus on student outcomes
-
 - Placement services and quality of network
-
 - Immersion works. Full-time, live, in-person instruction for 5 months works.
 
 ### 3 keys to success that students get from Codeup
@@ -19,14 +17,15 @@
 3. How to present your findings to stakeholders. How to present yourself professionally as a practitioner.
 
 ### What is Data Science?
-- Interdisciplinary applied science at the intersection of programming, statistics, and domain
+- Interdisciplinary applied science intersecting programming, statistics, and domain expertise
 - The application of the scientific method of hypothesis-experiment-analyze-repeat to analyze and infer outcomes from data. 
 - A broad description of approaches ranging from business analysis and visualizations to machine learning and deep neural network analysis.
 - An increasingly accessible field
 
 ### What *isn't* Data Science?
 - Only statistics or only mathematics: let the computer compute and the people think
-- Magic or inaccessible
+- Inaccessible, perfect, or without error. 
+- Free from ethical scrutiny. It deserves serious ethical scrutiny and consideration.
 
 ### Isn't data science just statistics?
 - *Future of Data Analysis*, Tukey 1962, `https://projecteuclid.org/euclid.aoms/1177704711`
@@ -35,14 +34,14 @@
 ### 5 things you will get from today's workshop
 1. An introduction to the Codeup experience
 2. Overview of Data Science
-3. Intro to popular data science libraries and methods in Python
+3. Lesson and hands-on exercises with creating a linear regression
 4. Instructional materials and your own copies of the prepared learning environments
 5. Homework to continue your learning
 
 ### The five questions Data Science can answer
 1. How many or how much of something? What will sales be next year?
 2. Which category does this thing belong to: Is this A or B?
-3. What groups? Does grouping things provide additional insight? Who are our best customers?
+3. What groups? Is there a clustering of the data that tells a story? Who are our best customers?
 4. Is this weird? Anomaly detection like looking for fraudulent transactions
 5. What should we do next? Infer likely outcomes
 
@@ -76,12 +75,14 @@ Machine learning takes in data (and sometimes answers/labels for some data) and 
 
 ![Machine Learning Diagram](/Users/xronos/intro-to-data-science-workshop/supervised_machine_learning_daigram.jpeg)
 
-#### 2 Main Types of Machine Learning
+#### Types of Machine Learning
 
-- Supervised
-- Unsupervised
+- Supervised = labeled data. Example is marking messages as spam to train a classifier
+- Unsupervised = no labels or human provided answers
+- Semi-supervised = mixture of supervised/unsupervised
+- Reinforcement learning  = use algorithm A to reinforce training from algorithm B
 
-##### Measuring effectiveness                                                                      
+#### Measuring effectiveness                                                                      
 
 - True positive - Check engine light goes on, predicting a problem, and there is a problem.
 - False positive - Check engine light goes on, but everything is OK.
@@ -97,9 +98,8 @@ Machine learning takes in data (and sometimes answers/labels for some data) and 
 - Overfitting or underfitting
 - Bias in, bias out
 
+### Setup your interactive learning environment
 
-
-## Setup your interactive learning environment
 1. Create an account on `https://kaggle.com`
 2. Go to `https://www.kaggle.com/ryanorsinger/intro-to-data-science`
 3. Click "Fork" to make your own copy so you can experiment.
@@ -113,18 +113,7 @@ Machine learning takes in data (and sometimes answers/labels for some data) and 
 - From edit mode, type the `esc` key to enter command mode.
 - Type `h` in command mode to get a list of keyboard shortcuts
 
-### Data Science Workflow
-1. Plan what questions you want to ask of the data.
-2. Acquire
-3. Prepare
-4. Explore
-5. Model
-6. Deliver/present findings
-
-### Vocabulary Key Terms
-
-
-
 ### Homework and next steps
-- `https://www.kaggle.com/ryanorsinger/101-exercises` for deep practice in Python fundamentals.
-- Apply if you're interested in the program. 
+- `https://www.kaggle.com/ryanorsinger/101-exercises` for deep Python practice.
+- *Data is the new oil*, so sharpen your data skills!
+- Talk to admissions and apply today!
