@@ -12,7 +12,7 @@
 
 ### 3 keys to success that students get from Codeup
 
-1. In addition to the curriculum, we teach how to keep learning and mastering this material.
+1. In addition to the curriculum, we teach how to keep learning by being a self directed learner.
 2. How to form and ask effective questions, find your own answers, and collaborate in the face of uncertainty (how to get really good at googling stuff and collaborating with people)
 3. How to present your findings to stakeholders. How to present yourself professionally as a practitioner.
 
@@ -80,14 +80,7 @@ Machine learning takes in data (and sometimes answers/labels for some data) and 
 - Supervised = labeled data. Example is marking messages as spam to train a classifier
 - Unsupervised = no labels or human provided answers
 - Semi-supervised = mixture of supervised/unsupervised
-- Reinforcement learning  = use algorithm A to reinforce training from algorithm B
-
-#### Measuring effectiveness                                                                      
-
-- True positive - Check engine light goes on, predicting a problem, and there is a problem.
-- False positive - Check engine light goes on, but everything is OK.
-- True negative - Check engine light remains off, and everything is OK.
-- False negative - Check engine light remains off, but there is an engine problem.
+- Reinforcement learning  = use algorithm A to "grade"  the results from algorithm B
 
 ### Main Challenges of Machine Learning
 

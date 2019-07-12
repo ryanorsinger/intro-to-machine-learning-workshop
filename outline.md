@@ -10,5 +10,4 @@
 2. Intro to visualization and exploration
 3. Intro to modeling and time for modeling exercise
 
-
 ## Slides
