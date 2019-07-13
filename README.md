@@ -10,6 +10,6 @@
 - `intro-to-linear-modeling-exercise.ipynb` is the modeling lesson and exercise
 
 ## Live content
-- Introducing data, descriptive stats, and visualization `https://www.kaggle.com/ryanorsinger/describe-vizualize-data`
-- Data Science workflow from planning, data acquisition, data wrangling/preparation, and exploration/visualization `https://www.kaggle.com/ryanorsinger/intro-to-data-science`
-- Lesson and exercise for modeling with linear regressions `https://www.kaggle.com/ryanorsinger/intro-to-linear-modeling`
+- Introducing data, descriptive stats, and visualization [https://www.kaggle.com/ryanorsinger/describe-vizualize-data](https://www.kaggle.com/ryanorsinger/describe-vizualize-data)
+- Data Science workflow from planning, data acquisition, data wrangling/preparation, and exploration/visualization [https://www.kaggle.com/ryanorsinger/intro-to-data-science](https://www.kaggle.com/ryanorsinger/describe-vizualize-data)
+- Lesson and exercise for modeling with linear regressions [https://www.kaggle.com/ryanorsinger/intro-to-linear-modeling](https://www.kaggle.com/ryanorsinger/describe-vizualize-data)
