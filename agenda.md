@@ -6,26 +6,24 @@
         find it."
             - Polya
 
+## Announcements
+- 10 minute break at 10:10am
+- Lunch will be around 11:45am
+
 ## Agenda for the day
 0. Before we start the workshop, 
     - Get yourself a handout
-    - Connect your WiFi to Codeup, the password is Geekdom1100
+    - Connect your WiFi to Codeup_Guest, the password is codeupguest
     - Create yourself an account on Kaggle.com
 
 1. Overview of Data Science, 10 minute break around 10:15am
 
-2. Data Science Pipeline
-    - Plan
-    - Acquire
-    - Prepare the data (data wrangling)
-    - Explore (investigate and visualize the data)
+2. Descriptive stats and visualization intro
 
-3. Intro to Linear Regressions
+3. Intro to Data Science Workflow
 
-4. Lunch break (11:30am - 12:00pm)
+4. Intro to Linear Regressions
 
-5. Time to create your own linear models
+5. Exercise time to create your own linear model
 
-6. How to evaluate the performance of your models
-
-7. Next steps
+6. Next steps
