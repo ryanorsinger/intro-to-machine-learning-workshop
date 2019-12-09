@@ -36,9 +36,9 @@
 
 Broadly, machine learning is the process of using previous data as the fuel for determining rules for making predictions of outcomes from future data. 
 
-Classical programming takes in rules and data to produce answers. Ex. TurboTax software.
+Classical programming takes business rules and data to produce answers. Ex. TurboTax software.
 
-Machine learning takes in data (and sometimes answers/labels for some data) and produces rules or predictions for future data. 
+Machine learning takes in data (and sometimes answers/labels for some data) and produces rules or predictions for future data. The example here is text message autocomplete.
 
 
 
