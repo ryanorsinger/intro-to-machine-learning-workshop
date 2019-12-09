@@ -1,3 +1,5 @@
+Measuring the accuracy of our models
+
 True positive = check engine light is on and there's a problem
 True negative = check engine light is off and everything is OK
 False positive = TYPE I ERROR = check engine light is on and everything is OK
@@ -10,6 +12,7 @@ Accuracy
 Precision
     When it predicts yes, how often is it correct?
     True Positives over / predicted yes = 100/110 = 0.91
+    True Positives / (True Positives + False Positives)
 
 True Positive Rate AKA Recall or Sensitivity
 When it's actually yes, how often does it predict yes?
