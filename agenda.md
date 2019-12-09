@@ -1,4 +1,4 @@
-# Welcome to Intro to Data Science Workshop
+# Welcome to Intro to Data Science Workshop (Machine Learning)
 
 ## Thought for the Day
 "If you can't solve a problem, 
@@ -7,16 +7,17 @@
             - Polya
 
 ## Announcements
-- 10 minute break at 10:10am
-- Lunch will be around 11:45am
+- Short break ~ 11am
+- Lunch ~ 12pm
+- More Machine Learning after lunch!
 
 ## Agenda for the day
 0. Before we start the workshop, 
     - Get yourself a handout
-    - Connect your WiFi to Codeup_Guest, the password is codeupguest
+    - Connect your WiFi to:
     - Create yourself an account on Kaggle.com
 
-1. Overview of Data Science, 10 minute break around 10:15am
+1. Overview of Data Science and Machine Learning
 
 2. Descriptive stats and visualization intro
 
